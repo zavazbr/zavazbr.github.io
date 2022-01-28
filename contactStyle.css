@@ -1,0 +1,28 @@
+body {
+    background-color: #e9fff7;
+    background-image: image-set("IMG/stemsTrybe/trybe_draw_background.png");
+    background-repeat: no-repeat;
+    background-size: 350px;
+    background-position-y: 125px;
+    background-position-x: right ;
+    font-family: Arial;
+}
+
+img#backgoundImage {
+    opacity: 0.2;
+}
+
+div.myinfo{
+    background-color: #b0fade;
+    text-align: center;
+    border-radius: 15px;
+}
+
+h1#contactTitle{
+    text-align: center;
+}
+
+.typebox {
+    font-family: Arial;
+}
+
