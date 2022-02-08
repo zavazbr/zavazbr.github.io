@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    display: flexbox;
+}
+
+body {
+    background: red;
+}
+
+.color1 { 
+    background: #fc354c;
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+
+.color2 { 
+    background: #29221f;
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+
+.color3 { 
+    background: #13747d;
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+
+.color4 { 
+    background: #0abfbc;
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+
+.color5 {
+    background: #fcf7c5;
+    text-align: center;
+    color: black;
+    padding: 20px;
+}
